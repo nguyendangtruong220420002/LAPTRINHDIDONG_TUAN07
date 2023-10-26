@@ -1,4 +1,4 @@
-import { StatusBar } from 'expo-status-bar';
+
 import { StyleSheet, Text, View, Image, Pressable } from 'react-native';
 import React,{useEffect} from 'react';
 import { useRoute } from '@react-navigation/native';
